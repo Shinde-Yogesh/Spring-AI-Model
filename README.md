@@ -63,6 +63,11 @@ openai.api.url=https://api.openai.com/v1/chat/completions</code></pre>
 <h3>Example Request</h3>
 <pre><code>curl -X GET "http://localhost:8080/chat?prompt=Hello, how are you?"</code></pre>
 
+<h3>Example Output</h3>
+<p>Click <strong>Here</strong> to see the response.</p>
+![image](https://github.com/user-attachments/assets/52a27228-ba58-4776-ad2a-9a5c61bfed6b)
+
+
 <h2 id="project-structure">🗂 Project Structure</h2>
 <pre><code>Spring-AI-Model/
 ├── src/
